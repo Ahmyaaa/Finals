@@ -2,7 +2,7 @@
   "name": "resume",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Sean Warner Dean T. Datu",
+  "author": "Jazper Garcia",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -12,7 +12,11 @@
   "dependencies": {
     "vue": "^2.5.11"
   },
-  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
